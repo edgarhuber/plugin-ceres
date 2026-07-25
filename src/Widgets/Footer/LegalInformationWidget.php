@@ -61,10 +61,6 @@ class LegalInformationWidget extends BaseWidget
             ->withName("Widget.legalInformationShowCancellationLabel");
 
 
-        $settingsFactory->createCheckbox("showContact")
-            ->withDefaultValue(true)
-            ->withName("Widget.legalInformationShowContactLabel");
-
         $cancellationFormContainer = $settingsFactory->createVerticalContainer("cancellationFormContainer")
             ->withName("Widget.legalInformationCancellationFormContainerLabel")
             ->children;

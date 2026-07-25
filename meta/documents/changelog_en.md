@@ -1,28 +1,10 @@
 # Release Notes for plentyShop LTS
 
-## unreleased
-
-### TODO
-
-- Due to changes to the **Legal information** widget, ShopBuilder content must be updated in the **Shop » ShopBuilder** menu using the **Regenerate Content** button.
-
-### Added
-
-- The option **Show contact** has been added to the legal information widget settings in ShopBuilder, allowing the contact link to be hidden independently of the other legal links.
-
-## v5.0.81 (2026-06-18) <a href="https://github.com/plentymarkets/plugin-ceres/compare/5.0.80...5.0.81" target="_blank" rel="noopener"><b>Overview of all changes</b></a>
-
-### Added
-
-- A link to the shop's privacy policy has been added to the default template of the cancellation form.
+## v5.0.81 (2026-06-xx) <a href="https://github.com/plentymarkets/plugin-ceres/compare/5.0.80...5.0.81" target="_blank" rel="noopener"><b>Overview of all changes</b></a>
 
 ### Fixed
 
 - Submitting a cancellation form no longer requires consenting to Google reCAPTCHA.
-
-### TODO
-
-- Due to changes to existing widgets, ShopBuilder content must be updated in the **Shop » ShopBuilder** menu using the **Regenerate Content** button.
 
 ## v5.0.80 (2026-05-27) <a href="https://github.com/plentymarkets/plugin-ceres/compare/5.0.79...5.0.80" target="_blank" rel="noopener"><b>Overview of all changes</b></a>
 
